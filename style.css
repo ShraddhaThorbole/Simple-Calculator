@@ -51,7 +51,7 @@ button
   border-radius: 10px;
 }
 
-button#equal 
+button#equalto 
 {
   grid-row: span 2;
 }
