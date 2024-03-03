@@ -56,11 +56,6 @@ button#equalto
   grid-row: span 2;
 }
 
-button#zero 
-{
-  grid-column: span 2;
-}
-
 .operation 
 {
   background-color: #ec9509;
